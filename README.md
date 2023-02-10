@@ -15,9 +15,8 @@
 <br>
 
 <p align="center">
-  <img alt="Página de formulário" src="./assets/form.gif" width="60%">
+  <img alt="Página de formulário" src="./assets/form.png" width="100%">
 </p>
-
 
 ## 🚀 Tecnologias
 
@@ -32,7 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Repositório de introdução ao tópico: formulários. Desenvolvido um formulário para captura de dados através da web.
 
-- [Acesse o projeto finalizado, online]()
+<p align="center">
+  <img alt="Página de formulário" src="./assets/form.gif" width="60%">
+</p>
+
+- Para acessar ao projeto finalizado, [clique aqui](https://fernandoalvesrufino.github.io/pagina-de-formulario/).
 
  
 ## :memo: Licença
